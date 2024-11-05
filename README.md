@@ -6,6 +6,8 @@ Este proyecto contiene un script en Python que lee un archivo CSV con datos de v
 
 - **main.py**: Script principal que realiza la carga, procesamiento y exportación de los datos.
 - **sales_data.csv**: Archivo de datos de ejemplo.
+- **sales_data.xml**: Archivo XML que contiene los datos de ventas procesados, sin registros con valores nulos en la columna `STATE`. Este archivo es el resultado final del procesamiento y está listo para su uso en otros sistemas o análisis.
+
 
 ## Instrucciones
 
