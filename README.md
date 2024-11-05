@@ -5,7 +5,7 @@ Este proyecto contiene un script en Python que lee un archivo CSV con datos de v
 ## Archivos
 
 - **main.py**: Script principal que realiza la carga, procesamiento y exportación de los datos.
-- **sales_data.csv**: Archivo de datos de ejemplo (no incluido en el repositorio por cuestiones de privacidad).
+- **sales_data.csv**: Archivo de datos de ejemplo.
 
 ## Instrucciones
 
